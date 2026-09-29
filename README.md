@@ -59,9 +59,9 @@ f_ref (75 MHz) ──► PFD ──► Charge Pump ──► Loop Filter ──�
 
 - [x] Schematic design and full-PLL verification
 - [x] Transistor-level charge pump with on-chip reference
-- [ ] Full-custom layout
-- [ ] DRC / LVS sign-off
+- [x] Full-custom layout
+- [x] DRC / LVS sign-off
 
 ## Team
 
-Group 6 — Analog Integrated Circuits Laboratory, Department of EEE, BUET
+Group 3 — Analog Integrated Circuits Laboratory, Department of EEE, BUET
